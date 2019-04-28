@@ -11,7 +11,7 @@ def main():
         #const variables 
         ALT='D:\Temp\ALT'
         MSL='D:\Temp\MSL'
-        Datum="60"
+        Datum="58"
     
         #commands generator
         rwAltRef='exiftool -n -GPSAltitudeRef=0 ' + ALT
